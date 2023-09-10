@@ -1,6 +1,6 @@
 # Gestor De Agencia Vehicular
 
-Este proyecto es una recreación de una problemática dada utilizando la programación orientada a objetos con Java utilizando el patrón de diseño Modelo - Vistas - Controlador
+Este proyecto es una recreación de una problemática dada utilizando la programación orientada a objetos con Java utilizando el patrón de diseño Modelo - Vista - Controlador (MVC)
 
 ## Problemática
 
